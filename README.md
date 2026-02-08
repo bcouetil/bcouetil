@@ -58,14 +58,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://dev.to/zenika/gitlab-ci-optimization-15-tips-for-faster-pipelines-55al"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-optimization-tips-faster-pipelines.jpg?v=20260208" width="100%" alt="🦊 GitLab CI Optimization: 15+ Tips for Faster Pipelines"></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://dev.to/zenika/gitlab-ci-10-best-practices-to-avoid-widespread-anti-patterns-2mb5"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-best-practices-avoid-widespread.jpg?v=20260208" width="100%" alt="🦊 GitLab CI: 10+ Best Practices to Avoid Widespread Anti-Patterns"></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-pages-preview-the-no-compromise-hack-to-serve-per-branch-pages-5599"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/pages-per-branch-no-compromise-hack.jpg?v=20260208" width="100%" alt="🦊 GitLab Pages per Branch: The No-Compromise Hack to Serve Preview Pages"></a>
 </td>
 <td width="50%" valign="top">
@@ -86,34 +78,26 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://dev.to/zenika/kubernetes-a-convenient-variable-substitution-mechanism-for-kustomize-lhm"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/convenient-variable-substitution-mechanism-kustomize.jpg?v=20260208" width="100%" alt="☸️ Kubernetes: A Convenient Variable Substitution Mechanism for Kustomize"></a>
-</td>
-<td width="50%" valign="top">
 <a href="https://dev.to/zenika/why-managed-kubernetes-is-a-viable-solution-for-even-modest-but-actively-developed-applications-357g"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/managed-viable-solution-even-modest.jpg?v=20260208" width="100%" alt="☸️ Why Managed Kubernetes is a Viable Solution for Even Modest but Actively Developed Applications"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/kubernetes-from-your-docker-compose-file-to-a-cluster-with-kompose-1gn0"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/docker-compose-file-cluster-kompose.jpg?v=20260208" width="100%" alt="☸️ Kubernetes: From Your Docker-Compose File to a Cluster with Kompose"></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/kubernetes-a-pragmatic-kubectl-aliases-collection-17oc"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/pragmatic-kubectl-aliases-collection.jpg?v=20260208" width="100%" alt="☸️ Kubernetes: A Pragmatic Kubectl Aliases Collection"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/web-application-on-kubernetes-a-tutorial-to-observability-with-the-elastic-stack-2p8a"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/web-application-tutorial-observability-elastic.jpg?v=20260208" width="100%" alt="☸️ Web Application on Kubernetes: A Tutorial to Observability with the Elastic Stack"></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://dev.to/zenika/kubernetes-nginx-ingress-controller-10-complementary-configurations-for-web-applications-ken"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/nginx-ingress-controller-complementary-configurations.jpg?v=20260208" width="100%" alt="☸️ Kubernetes NGINX Ingress Controller: 10+ Complementary Configurations for Web Applications"></a>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://dev.to/zenika/kubernetes-awesome-maintained-links-you-will-keep-using-next-year-48o8"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/awesome-maintained-links-keep-using.jpg?v=20260208" width="100%" alt="☸️ Kubernetes: Awesome Maintained Links You Will Keep Using Next Year"></a>
+<a href="https://dev.to/zenika/kubernetes-nginx-ingress-controller-10-complementary-configurations-for-web-applications-ken"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/nginx-ingress-controller-complementary-configurations.jpg?v=20260208" width="100%" alt="☸️ Kubernetes NGINX Ingress Controller: 10+ Complementary Configurations for Web Applications"></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://dev.to/zenika/managed-kubernetes-our-dev-is-on-aws-our-prod-is-on-ovh-3nbf"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/managed-dev-aws-prod-ovhcloud.jpg?v=20260208" width="100%" alt="☸️ Managed Kubernetes: Our Dev is on AWS, Our Prod is on OVHCloud"></a>
+<a href="https://dev.to/zenika/kubernetes-awesome-maintained-links-you-will-keep-using-next-year-48o8"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/awesome-maintained-links-keep-using.jpg?v=20260208" width="100%" alt="☸️ Kubernetes: Awesome Maintained Links You Will Keep Using Next Year"></a>
 </td>
 </tr>
 <tr>
