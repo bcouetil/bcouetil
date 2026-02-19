@@ -7,57 +7,58 @@ Here are my articles, grouped by theme and sorted by publication date (newest fi
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://dev.to/zenika/gitlab-ci-achieving-3-second-jobs-on-million-line-codebases-3nlm"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-achieving-3-second-jobs-million-line.jpg?v=20260219" width="100%" alt="🦊 GitLab CI: Achieving 3-Second Jobs on Million-Line Codebases"></a>
+</td>
+<td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-runners-which-topology-for-fastest-job-execution-5bma"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/runners-topology-fastest-job-execution.jpg?v=20260219" width="100%" alt="🦊 GitLab Runners: Which Topology for Fastest Job Execution?"></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/efficient-git-workflow-for-web-apps-advancing-progressively-from-scratch-to-thriving-3af6"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/efficient-workflow-web-apps-advancing.jpg?v=20260219" width="100%" alt="🔀 Efficient Git Workflow for Web Apps: Advancing Progressively from Scratch to Thriving"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-forget-gitkraken-here-are-the-only-git-commands-you-need-4ckj"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/gitlab-forget-gitkraken-commands-need.jpg?v=20260219" width="100%" alt="🔀🦊 GitLab: Forget GitKraken, Here are the Only Git Commands You Need"></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-a-python-script-displaying-latest-pipelines-in-groups-projects-5b5a"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/python-script-displaying-latest-pipelines.jpg?v=20260219" width="100%" alt="🦊 GitLab: A Python Script Displaying Latest Pipelines in a Group's Projects"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-a-python-script-calculating-dora-metrics-258o"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/python-script-calculating-dora-metrics.jpg?v=20260219" width="100%" alt="🦊 GitLab: A Python Script Calculating DORA Metrics"></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-ci-deploy-a-majestic-single-server-runner-on-aws-d3"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-deploy-majestic-single-server.jpg?v=20260219" width="100%" alt="🦊 GitLab CI: Deploy a Majestic Single Server Runner on AWS"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-ci-the-majestic-single-server-runner-1b5b"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-majestic-single-server-runner.jpg?v=20260219" width="100%" alt="🦊 GitLab CI: The Majestic Single Server Runner"></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-ci-yaml-modifications-tackling-the-feedback-loop-problem-4ib1"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-yaml-modifications-tackling-feedback.jpg?v=20260219" width="100%" alt="🦊 GitLab CI YAML Modifications: Tackling the Feedback Loop Problem"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-ci-optimization-15-tips-for-faster-pipelines-55al"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-optimization-tips-faster-pipelines.jpg?v=20260219" width="100%" alt="🦊 GitLab CI Optimization: 15+ Tips for Faster Pipelines"></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-ci-10-best-practices-to-avoid-widespread-anti-patterns-2mb5"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-best-practices-avoid-widespread.jpg?v=20260219" width="100%" alt="🦊 GitLab CI: 10+ Best Practices to Avoid Widespread Anti-Patterns"></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://dev.to/zenika/gitlab-pages-preview-the-no-compromise-hack-to-serve-per-branch-pages-5599"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/pages-per-branch-no-compromise-hack.jpg?v=20260219" width="100%" alt="🦊 GitLab Pages per Branch: The No-Compromise Hack to Serve Preview Pages"></a>
 </td>
-<td width="50%" valign="top">
-<a href="https://dev.to/zenika/chatgpt-if-you-please-make-me-a-gitlab-jobs-attributes-sorter-3co3"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-jobs-attributes-sorter-python.jpg?v=20260219" width="100%" alt="🦊 GitLab CI Jobs Attributes Sorter: A Python Script for Consistent YAML Files"></a>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://dev.to/zenika/gitlab-runners-topologies-pros-and-cons-2pb1"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/runners-topologies-pros-cons.jpg?v=20260219" width="100%" alt="🦊 GitLab Runners Topologies: Pros and Cons"></a>
+<a href="https://dev.to/zenika/chatgpt-if-you-please-make-me-a-gitlab-jobs-attributes-sorter-3co3"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/ci-jobs-attributes-sorter-python.jpg?v=20260219" width="100%" alt="🦊 GitLab CI Jobs Attributes Sorter: A Python Script for Consistent YAML Files"></a>
 </td>
 <td width="50%" valign="top">
+<a href="https://dev.to/zenika/gitlab-runners-topologies-pros-and-cons-2pb1"><img src="https://raw.githubusercontent.com/bcouetil/articles/main/images/badges/runners-topologies-pros-cons.jpg?v=20260219" width="100%" alt="🦊 GitLab Runners Topologies: Pros and Cons"></a>
 </td>
 </tr>
 </table>
